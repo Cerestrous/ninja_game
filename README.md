@@ -1,3 +1,11 @@
 # ninja_game
 
-A simple and fun platformer game using pygame.
+
+
+
+
+
+
+
+
+A simple and fun platformer game using pygame created by dafluffypotato 
